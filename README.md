@@ -3,7 +3,7 @@ Radio-Playlists
 
 This repository contains two playlists. The one is in xspf format (very well defined) and the other one is in M3U (probably one of the most popular). They contain the most common Greek-Cypriot and two pure Greek <b>online radio stations</b>. They can be played flawlessly in various players including my favorite media player namely VLC.
 
-If your player supports XSPF I would definitely recommend to use that one, as the xspf playlist contains useful information for each online radio station as its link, its name, its description AND a <i>cover picture!</i>. If not, just go for the M3U one, a format very widely used!
+If your player supports XSPF I would definitely recommend to use that one, as the xspf playlist contains useful information for each online radio station as its link, its name, its description AND a <i>cover picture!</i> If not, just go for the M3U one, a format very widely used!
 
 I have included an xspf playlist, as xspf format is well defined, supports a cover picture per track/stream and allows multiple locations per each station (this  is very important if your machine has limited variety of codecs or your player does not support playing a few types of streaming files).
 
