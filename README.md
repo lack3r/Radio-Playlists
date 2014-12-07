@@ -19,4 +19,4 @@ If any of the links is dead, either any station's cover picture, or any station'
 
 Enjoy ;)
 
-EDIT: As the names of some of the most common Greek-Cypriot online radio stations are provided in the file radio.list, you can also create playlists in wpl, pls and Azbox format if you want to just by using <a href="http://tvtvtv.ru/tools/plc_eng.php">this</a> tool.
+EDIT: As the names of some of the most common Greek-Cypriot online radio stations are provided in the file radio.list, you can use them to create playlists in wpl, pls and Azbox format if you want to, just by using <a href="http://tvtvtv.ru/tools/plc_eng.php">this</a> tool.
