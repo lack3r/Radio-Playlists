@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>lack3r's radio stations</title>
+  <creator>lack3r (Andreas Loizou)</creator>
+  <info>lack3r.github.io</info>
+  <!-- I have no rights on the images provided by the links below. Please ask for rights from the copyrights owners-->
+  <!-- A sample record, can be found at http://xspf.org/quickstart/ -->
+  <trackList>
+    <track>
+            <location>http://stream02.iphost.gr:8000/stream?q=tf1.php</location>
+
+            <!-- artist or band name -->
+            <creator>En Lefko 87.7 radio</creator>
+
+            <!-- name of the song -->
+            <title>En Lefko 87.7 radio</title>
+
+            <!-- comment on the song -->
+            <annotation>Misc</annotation>
+
+            <!-- album art -->
+            <image>http://enlefko.fm/sites/default/files/enlefko_logo.jpg?1</image>
+
+    </track>
+    <track>
+            <location>http://stream.dnsgb.net:8012/;stream.nsv</location>
+
+            <!-- artist or band name -->
+            <creator>Kanali 6</creator>
+
+            <!-- name of the song -->
+            <title>Kanali 6</title>
+
+            <!-- comment on the song -->
+            <annotation>I listen to this channel mainly because of their 20:00-22:00 and 22:00-00:00 shows</annotation>
+
+            <!-- album art -->
+            <image>https://pbs.twimg.com/profile_images/1662138178/LOGO.JPG</image>
+
+    </track>
+    <track>
+            <location>rtsp://live.onestreaming.com/mixfm</location>
+            <location>mms://live.onestreaming.com/mixfm</location>
+            <location>http://live.onestreaming.com/mixfm</location>
+
+            <!-- artist or band name -->
+            <creator>Mix fm</creator>
+
+            <!-- name of the song -->
+            <title>Mix fm</title>
+
+            <!-- comment on the song -->
+            <annotation>English Pop</annotation>
+
+            <!-- album art -->
+            <image>http://www.mixfmradio.com/assets/templates/site/images/logo.png</image>
+
+    </track>
+    <track>
+            <location>mms://194.42.34.22/Live</location>
+
+            <!-- artist or band name -->
+            <creator>UCY Voice</creator>
+
+            <!-- name of the song -->
+            <title>UCY Voice</title>
+
+            <!-- comment on the song -->
+            <annotation>Student Station</annotation>
+
+            <!-- album art -->
+            <image>http://europa.eu/youth/sites/eac-eyp/files/news/UCY-VOICE-NEW-LOGO.jpg</image>
+
+    </track>
+    <track>
+            <location>http://eco.onestreaming.com:8140/;</location>
+
+            <!-- artist or band name -->
+            <creator>ANT1 Cyprus</creator>
+
+            <!-- name of the song -->
+            <title>ANT1 Cyprus</title>
+
+            <!-- comment on the song -->
+            <annotation>Various Greek</annotation>
+
+            <!-- album art -->
+            <image>https://lh6.ggpht.com/OA8c6wJMQqjN6Psx4ip9x29Bzj15oq-TXYykyy3id6wnPmSnrYYZHmpPf3WRn6xrCOR3=w300</image>
+
+    </track>
+    <track>
+            <location>mms://rock.istoikona.com/kiss</location>
+
+            <!-- artist or band name -->
+            <creator>Kiss Fm</creator>
+
+            <!-- name of the song -->
+            <title>Kiss Fm</title>
+
+            <!-- comment on the song -->
+            <annotation>English hits</annotation>
+
+            <!-- album art -->
+            <image>http://d1i6vahw24eb07.cloudfront.net/s5991q.png</image>
+
+    </track>
+    <track>
+            <location>http://5.189.190.250:8001/;stream.mp3</location>
+
+            <!-- artist or band name -->
+            <creator>Metadeftero</creator>
+
+            <!-- name of the song -->
+            <title>Metadeftero</title>
+
+            <!-- comment on the song -->
+            <annotation>Artistic</annotation>
+
+            <!-- album art -->
+            <image>http://i.vimeocdn.com/video/482917624_1280x720.jpg</image>
+
+    </track>
+    <track>
+            <location>mms://live.istoikona.com/sferacy</location>
+
+            <!-- artist or band name -->
+            <creator>Sfera</creator>
+
+            <!-- name of the song -->
+            <title>Sfera</title>
+
+            <!-- comment on the song -->
+            <annotation>Greek pop</annotation>
+
+            <!-- album art -->
+            <image>http://www.philenews.com/data/LOGO%20sfera%20FM.png</image>
+
+    </track>
+    <track>
+            <location>http://www.smoothradio.net:8080/stream/3/</location>
+
+            <!-- artist or band name -->
+            <creator>Smooth Radio</creator>
+
+            <!-- name of the song -->
+            <title>Smooth Radio</title>
+
+            <!-- comment on the song -->
+            <annotation>General</annotation>
+
+            <!-- album art -->
+            <image>http://assets4.smoothradio.com/2014/12/smooth-logo-default-white-background-1395655401-api-0.jpg</image>
+
+    </track>
+    <track>
+            <location>mms://live.istoikona.com/radioproto</location>
+
+            <!-- artist or band name -->
+            <creator>Radio Proto</creator>
+
+            <!-- name of the song -->
+            <title>Radio Proto</title>
+
+            <!-- comment on the song -->
+            <annotation>Greek mainstream</annotation>
+
+            <!-- album art -->
+            <image>https://lh3.ggpht.com/1WU2LqfKAJ8VtoY7zAYzExdAaOMRZokX2nutSpWBwG40wcrdrMQe7TZoHOF0fzms=w300</image>
+
+    </track>
+    <track>
+            <location>mms://live.istoikona.com/super</location>
+
+            <!-- artist or band name -->
+            <creator>Super</creator>
+
+            <!-- name of the song -->
+            <title>Super</title>
+
+            <!-- comment on the song -->
+            <annotation>General</annotation>
+
+            <!-- album art -->
+            <image>http://www.istoikona.com/Portals/0/Radios/Cy/superlogofix.png</image>
+
+    </track>
+    <track>
+            <location>mms://live.istoikona.com/astra</location>
+
+            <!-- artist or band name -->
+            <creator>Astra Fm</creator>
+
+            <!-- name of the song -->
+            <title>Astra Fm</title>
+
+            <!-- comment on the song -->
+            <annotation>Various Greek</annotation>
+
+            <!-- album art -->
+            <image>http://d1i6vahw24eb07.cloudfront.net/s14154q.png</image>
+
+    </track>
+  </trackList>
+</playlist>
