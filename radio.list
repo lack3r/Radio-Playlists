@@ -2,7 +2,7 @@
 #Date: 7, December 2014
 #This file contains a list of the channels' urls with their names and one without them
 
-#List containing the channels' names
+#List that also contains the channels' names
 En Lefko 87.7 radio
 http://stream02.iphost.gr:8000/stream?q=tf1.php
 Kanali 6
