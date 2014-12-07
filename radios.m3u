@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0,En Lefko 87.7 radio
-http://stream02.iphost.gr:8000/stream?q=tf1.php
 #EXTINF:0,Kanali 6
 http://stream.dnsgb.net:8012/;stream.nsv
 #EXTINF:0,Mix Fm
