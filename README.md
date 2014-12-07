@@ -13,7 +13,7 @@ Please find more about xspf standard <a href="http://xspf.org/">here</a>. The ap
 
 <b>Just download one of the playlists, open it and there you are! You can listen to the radio station you like!</b>
 
-Feel free to download the libraries, and modify them. You can also rearrange the tracks(xspf)/links(m3u) if you want.
+Feel free to download the playlists, and modify them. You can also rearrange the tracks(xspf)/links(m3u) if you want.
 
 If any of the links is dead, either any station's cover picture, or any station's source, you can inform me anytime :)
 
