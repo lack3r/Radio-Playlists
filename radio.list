@@ -1,5 +1,34 @@
 #Author: LACK3R (Andreas Loizou)
 #Date: 7, December 2014
+# This file contains the list of the channels urls with and without the stations' names
+
+#List containing the channels' names
+En Lefko 87.7 radio
+http://stream02.iphost.gr:8000/stream?q=tf1.php
+Kanali 6
+http://stream.dnsgb.net:8012/;stream.nsv
+Mix Fm
+http://live.onestreaming.com/mixfm
+UCY Voice
+mms://194.42.34.22/Live
+ANT1 Cyprus
+http://eco.onestreaming.com:8140/;
+Kiss Fm
+mms://rock.istoikona.com/kiss
+Metadeftero
+http://5.189.190.250:8001/;stream.mp3
+Sfera Cyprus
+mms://live.istoikona.com/sferacy
+Smooth Radio
+http://www.smoothradio.net:8080/stream/3/
+Radio Proto
+mms://live.istoikona.com/radioproto
+Super Fm
+mms://live.istoikona.com/super
+Astra
+mms://live.istoikona.com/astra
+
+#List that does not contain the stations' names
 http://stream02.iphost.gr:8000/stream?q=tf1.php
 http://stream.dnsgb.net:8012/;stream.nsv
 http://live.onestreaming.com/mixfm
