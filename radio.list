@@ -8,7 +8,7 @@ http://stream02.iphost.gr:8000/stream?q=tf1.php
 Kanali 6
 http://stream.dnsgb.net:8012/;stream.nsv
 Mix Fm
-http://live.onestreaming.com/mixfm
+mmsh://37.48.82.48:80/mixfm?MSWMExt=.asf
 UCY Voice
 mms://194.42.34.22/Live
 ANT1 Cyprus
@@ -27,11 +27,13 @@ Super Fm
 mms://live.istoikona.com/super
 Astra
 mms://live.istoikona.com/astra
+BFBS Cyprus
+http://icy-e-01-cr.sharp-stream.com/ssvcbfbs8.mp3
 
 #List that does not contain the stations' names
 http://stream02.iphost.gr:8000/stream?q=tf1.php
 http://stream.dnsgb.net:8012/;stream.nsv
-http://live.onestreaming.com/mixfm
+mmsh://37.48.82.48:80/mixfm?MSWMExt=.asf
 mms://194.42.34.22/Live
 http://eco.onestreaming.com:8140/;
 mms://rock.istoikona.com/kiss
@@ -41,3 +43,4 @@ http://www.smoothradio.net:8080/stream/3/
 mms://live.istoikona.com/radioproto
 mms://live.istoikona.com/super
 mms://live.istoikona.com/astra
+http://icy-e-01-cr.sharp-stream.com/ssvcbfbs8.mp3
