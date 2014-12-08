@@ -39,9 +39,7 @@
 
     </track>
     <track>
-            <location>rtsp://live.onestreaming.com/mixfm</location>
-            <location>mms://live.onestreaming.com/mixfm</location>
-            <location>http://live.onestreaming.com/mixfm</location>
+            <location>mmsh://37.48.82.48:80/mixfm?MSWMExt=.asf</location>
 
             <!-- artist or band name -->
             <creator>Mix fm</creator>
@@ -198,6 +196,22 @@
 
             <!-- album art -->
             <image>http://d1i6vahw24eb07.cloudfront.net/s14154q.png</image>
+
+    </track>
+    <track>
+            <location>http://icy-e-01-cr.sharp-stream.com/ssvcbfbs8.mp3</location>
+
+            <!-- artist or band name -->
+            <creator>BFBS Cyprus</creator>
+
+            <!-- name of the song -->
+            <title>BFBS Cyprus</title>
+
+            <!-- comment on the song -->
+            <annotation>British Station in Cyprus</annotation>
+
+            <!-- album art -->
+            <image>http://d1i6vahw24eb07.cloudfront.net/s7684t.png</image>
 
     </track>
   </trackList>
