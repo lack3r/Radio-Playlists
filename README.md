@@ -1,4 +1,4 @@
-Radio-Playlists
+:musical_note: Radio-Playlists
 ===============
 
 This repository contains two playlists. The one is in xspf format (very well defined) and the other one is in M3U (probably one of the most popular). They contain the most common Greek-Cypriot and two pure Greek <b>online radio stations</b>. They can be played flawlessly in various players including my favorite media player namely VLC.
